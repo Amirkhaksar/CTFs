@@ -1,0 +1,5 @@
+http://challenge01.root-me.org/web-client/ch25/
+
+Inspect in Chrome or Firefox, remove disabled from input. Click on button.
+
+#Flag = HTMLCantStopYou
